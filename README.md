@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm juniordev203</h1>
-<h3 align="center">A passionate full-stack developer in VietNam</h3>
+<h1>Hi 👋, I'm juniordev203</h1>
+<h3>A passionate full-stack developer in VietNam</h3>
 
 - 👨‍💻 All of my projects are available at [https://juniordev203.github.io/junior/](https://juniordev203.github.io/junior/)
 
