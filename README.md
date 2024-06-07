@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://www.threads.net/@huyhoang_p03](https://www.threads.net/@huyhoang_p03)
 
-- 💬 Ask me about **react, javascript, typescript, angular**
+- 💬 Ask me about **everything**
 
 - 📫 How to reach me **huyhoangpham8460@gmail.com**
 
